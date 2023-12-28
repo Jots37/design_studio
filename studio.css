@@ -1,0 +1,262 @@
+
+#Dtheory{
+    height:700px;
+    background-image:url(D:\ww.webp);
+    font-size:30px;
+    color:black;
+    padding-top:300px;
+}
+#dv1{
+    text-align:center;
+    background-repeat:no-repeat;
+}
+
+#read{
+    border:2px solid black;
+    border-radius:10px;
+    height:45px;
+    width:220px;
+    background-color:black;
+    font-size:25px;
+    color:white;
+    margin-left:500px;
+    cursor:pointer;
+}
+
+#detail{
+    border:2px solid black;
+    border-radius:10px;
+    height:45px;
+    width:220px;
+    font-size:25px;
+    color:black;
+    cursor:pointer;
+    text-align:center;
+    margin-left:50px;
+}
+
+#dv2{
+    display:flex;
+}
+
+#detail:hover{
+    background-color:white;
+}
+
+#dv3{
+    height:1000px;
+    background-image:url(dv1.jpg);
+    font-size:20px;
+    color:black;}
+
+#middlediv{
+    background-color:white;
+    height:650px;
+    width:1000px;
+    margin-left:150px;
+    font-size:20px;
+    color:black;
+}
+div #middlediv{ 
+    opacity:0.8;
+}
+
+#specialities{ 
+    height:80px;
+    width:80px;
+    border:2px solid #AACB73; 
+    border-radius:50%;
+    background-color:#82CD47;
+    font-size:60px;color:white;
+    text-align:center;
+    margin-left:50px;
+}
+
+.strategy, .web{
+    float:right;
+    margin-right:20px;
+    margin-top:20px;
+}
+.branding, .Media{
+    float:right;
+    margin-right:50px;
+    margin-top:20px;
+}
+
+.ecommerce{
+    margin-left:20px;
+    margin-top:15px;
+}
+.development{
+    margin-left:20px;
+}
+
+#dv4{
+    height:1000px;
+    background-color:#68B984;
+    text-align:center;
+    font-size:25px;
+    color:white;
+    font-weight:bolder;}
+#we-do{
+    height:600px;
+    width:550px;
+    margin-left:150px;
+    background-image:url(D:\rr.avif);}
+#carousel{
+    height:600px;
+    width:550px;
+    margin-left:50px;
+}
+#outer_we_do{
+    display:flex;
+}
+
+#cover{
+    height:1000px;
+    font-size:18px;
+    text-align:center;
+}
+#pic{
+    display:flex;
+}
+
+#employee1{
+    height:250px;
+    width:250px;
+     border-radius:50%;
+     margin-left:350px;
+     margin-top:150px;
+     background-image:url(D:\ww.jpg);}
+#employee2{
+    height:300px;
+    width:300px; 
+    border-radius:50%;
+    margin-left:50px;
+    margin-top:50px;
+    background-image:url(D:\vv.png);}
+#employee3{
+    height:250px;
+    width:250px; 
+    border-radius:50%;
+    margin-left:50px;
+    margin-top:150px;
+    background-image:url(D:\zz.jpg);}
+
+#para{
+    display:flex;
+    text-align:left;
+    margin-top:100px;}
+#article1{
+    margin-left:280px;
+}
+#article2{
+    margin-left:150px;
+}
+
+
+#last{
+    height:700px;
+    background-color:#68B984;
+    font-size:30px;
+    display:flex;
+}
+#location{
+    margin-top:50px;
+    margin-left:200px;
+}
+
+#new{
+    height:1000px;
+    text-align:center;
+    font-size:30px;
+    font-family:helvetica;
+}
+#poster1{
+        display:flex;
+        margin-left:200px;
+}
+#po1{
+    background-image:url(D:\po1.jpg);
+}
+#po2{
+    background-image:url(D:\po2.jpg);
+}
+#po3{
+    background-image:url(D:\po3.jpg);
+}
+#poster2{
+    display:flex;
+    margin-left:200px;
+}
+#po4{
+    background-image:url(D:\po4.jpg);
+}
+#po5{
+    background-image:url(D:\po5.jpg);
+}
+#po6{
+    background-image:url(D:\po6.jpg);
+}
+
+.mobile_app{
+    border:4px solid white;
+     height:400px;
+     width:380px;
+}
+
+#blur{
+    height:150px;
+    width:380px;
+    margin-top:250px;
+    background-color:black;
+    font-size:25px;
+    color:white;
+    text-align:left;}
+
+#blur{
+    opacity:0.7
+}
+
+#font{
+    display:flex;
+}
+
+#font1{height:33px;
+    width:37px;
+    border:2px solid white;
+    background-color:white;
+    border-radius:50%;
+    text-align:center;
+    padding-top:10px;
+    margin-left:10px;}
+
+
+#contact{
+    margin-left:150px;
+    text-align:justify;
+    font-size:20px;
+    margin-top:50px;}
+
+input[type=text]{
+    border:2px solid white;
+    border-radius:6px; 
+    background-color:white;
+    padding:18px;
+    box-sizing:border-box;
+    margin-top:10px;
+    font-size:20px;}
+
+textarea{
+    border-radius:6px;
+    border:2px solid white;}
+
+#submit{
+    border: 2px solid black;
+    height: 50px;width:640px;
+    background-color: black;
+    font-size: 30px;color:white;
+    border-radius: 6px;
+    text-align: center;
+    cursor: pointer;
+}
